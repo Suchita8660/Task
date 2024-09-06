@@ -16,12 +16,12 @@ Technologies used:
 
 Setup Instructions:
 •	Frontend :
-1.	Navigate to the directory :  cd frontend
-2.	Run file : npm run dev
+    1.	Navigate to the directory :  cd frontend
+    2.	Run file : npm run dev
 •	Backend : 
-1.	Navigate to the directory : cd backend
-2.	Set up database : In env file , mention the URL of database.
-3.	Run file : npm run dev
+    1.	Navigate to the directory : cd backend
+    2.	Set up database : In env file , mention the URL of database.
+    3.	Run file : npm run dev
 
 MangoDB Compass :
 1.	Install MongoDB compass.
